@@ -14,6 +14,6 @@ This app showcases how to use Material UI components like Text, Icon, Image & Li
 
 ## Screenshots
 
-<img src="genesis.png" width=300 height=300>
+<img src="genesis.png" width=150 height=150>
 
 
